@@ -122,10 +122,10 @@ border-radius: 0%;
     font-size: 25px;
     padding-top: 5px;
 }
-.bg-clr {
+.bg-clr2 {
     background-color: rgb(10,10,10);
     width: auto;
-    height: 600px;
+    height: 400px;
 }
 .bg-clr > p {
     font-size: 10px;
@@ -134,7 +134,7 @@ border-radius: 0%;
     display: flex;
     justify-content: space-around;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 100px;
 }
 
 .MyProjects-Info > div > div > div > a {
