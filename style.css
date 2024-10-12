@@ -51,7 +51,10 @@ div > img {
 border-radius: 50%;
 width: 300px;
 padding-top: 200px;
-padding-left: 20px;
+}
+.prof-photo {
+    padding-right: 150px;
+    padding-bottom: 90px;
 }
 .start > div > p {
     color: white;
@@ -146,13 +149,15 @@ border-radius: 0%;
     width: auto;
     height: 50px;
     align-items: center;
+    justify-content: end;
 }
 .Footer > div > a {
     display: flex;
     align-items: center;
 }
 .Footer > div > a > img {
-
     padding: 0px;
     width: 70px;
 }
+
+
