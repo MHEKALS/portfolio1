@@ -1,0 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(Images/fon.jpg);
+    background-size: inherit
+}
