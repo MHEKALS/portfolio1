@@ -149,13 +149,20 @@ border-radius: 0%;
     width: auto;
     height: 50px;
     align-items: center;
-    justify-content: end;
+    justify-content: space-between;
 }
-.Footer > div > a {
+.Footer > div {
     display: flex;
     align-items: center;
 }
-.Footer > div > a > img {
+.Footer > div > p {
+    padding-left: 10px;
+}
+.Footer > div > div > a {
+    display: flex;
+    align-items: center;
+}
+.Footer > div>div > a > img {
     padding: 0px;
     width: 70px;
 }
