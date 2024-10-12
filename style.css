@@ -61,7 +61,7 @@ padding-left: 20px;
 .AboutMe {
     display: flex;
     justify-content: space-between;
-    margin-top: 300px;
+    margin-top: 375px;
     background-color: white;
 }
 .AboutMe > div > img {
@@ -76,13 +76,10 @@ padding-left: 20px;
 .bg-clr {
     background-color: rgb(10,10,10);
     width: auto;
-    height: 800px;
+    height: 600px;
 }
 .bg-clr > p {
     font-size: 10px;
-}
-.AboutMe-Info {
-
 }
 .AboutMe-Info > div> p {
     font-size: 25px;
@@ -92,8 +89,9 @@ padding-left: 20px;
     display: flex;
 }
 .Language > img {
+    padding-left: 50px;
+    width: 250px;
 padding-top: 20px;
-    border-radius: 0%;
-    background-color: ;
+border-radius: 0%;
 }
 
