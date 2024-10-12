@@ -47,13 +47,16 @@ border-radius: 10px;
     align-items: center;
     justify-content: center;
 }
+.start > div > img {
+    border-radius: 50%;
+}
 h1 {
 color: white;
 font-size: 80px;
 text-align: center;
-padding-top: 100px;
+padding-top: 0px;
 }
-div > img {
+.butts > img {
 border-radius: 50%;
 width: 300px;
 padding-top: 200px;
@@ -61,6 +64,7 @@ padding-top: 200px;
 .prof-photo {
     padding-right: 150px;
     padding-bottom: 90px;
+    padding-top: 55px;
 }
 .start > div > p {
     color: white;
