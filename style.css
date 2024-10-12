@@ -29,6 +29,12 @@ border-style: solid;
 border-width: 3px;
 border-radius: 10px;
 }
+.butt:hover{
+    transition: 0.2s ease-in-out;
+    background: #000000;
+    color: white;
+    box-shadow: 2px 2px 40px #000000
+}
 
 .profile {
     padding: 0;
@@ -141,6 +147,12 @@ border-radius: 0%;
 .MyProjects-Info > div > p {
     font-size: 25px;
     color: white;
+}
+.butt1:hover{
+    transition: 0.2s ease-in-out;
+    background: #ffffff;
+    color: black;
+    box-shadow: 2px 2px 40px #ffffff
 }
 .Footer {
     display: flex;
