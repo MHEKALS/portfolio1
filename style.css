@@ -10,12 +10,15 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1280px;
+    width: auto;
     background-color: white;
     text-align: center;
 }
 .git {
     border-style: none;
+}
+.About {
+    padding-right: 20px;
 }
 header > div > a {
     text-decoration: none;
@@ -48,6 +51,7 @@ div > img {
     border-radius: 50%;
     width: 300px;
 padding-top: 200px;
+padding-left: 20px;
 }
 div > p {
     color: white;
