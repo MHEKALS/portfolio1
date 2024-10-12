@@ -6,3 +6,9 @@ body {
     background-image: url(Images/fon.jpg);
     background-size: inherit
 }
+h1 {
+color: white;
+font-size: 80px;
+text-align: center;
+padding-top: 100px;
+}
