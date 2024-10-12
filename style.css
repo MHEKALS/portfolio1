@@ -2,6 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+@media (max-width:768px) {
+    /*
+      ... правила для планшетов ...
+      выводим карточки товаров по 2 в ряд
+    */
+  }
 body {
     background-image: url(Images/fon.jpg);
     background-size: inherit
